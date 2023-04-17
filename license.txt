@@ -1,0 +1,11 @@
+Model Information:
+* title:	First-floor-comm
+* source:	https://sketchfab.com/3d-models/first-floor-comm-e9bb9747d92445e5968bebefdc2ca726
+* author:	sambhavi.tripathi (https://sketchfab.com/sambhavi.tripathi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "First-floor-comm" (https://sketchfab.com/3d-models/first-floor-comm-e9bb9747d92445e5968bebefdc2ca726) by sambhavi.tripathi (https://sketchfab.com/sambhavi.tripathi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
